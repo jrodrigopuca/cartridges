@@ -12,6 +12,6 @@ end
 
 function _draw()
 	cls(5)
-	circfill(x,y,7,14)
+	circfill(x,y,7,3)
 end
 
